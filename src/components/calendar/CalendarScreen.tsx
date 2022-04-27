@@ -1,8 +1,11 @@
 import React from 'react'
+import Navbar from '../ui/Navbar'
 
 const CalendarScreen = () => {
   return (
-    <div>CalendarScreen</div>
+    <div>
+      <Navbar />
+    </div>
   )
 }
 
